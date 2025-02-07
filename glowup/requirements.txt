@@ -1,0 +1,6 @@
+flask
+werkzeug
+tensorflow
+imageio
+opencv-python
+dlib
